@@ -4,9 +4,6 @@ This repository contains thirty-four beginner-friendly Python programs designed 
 
 The projects are suitable for beginners, students, and educators who want practical, accessible examples of math implemented in Python.
 
-
----
-
 Features
 
 Covers essential math topics with runnable Python scripts
@@ -18,10 +15,6 @@ No external dependencies required for most scripts
 Ideal for hands-on learning, classroom exercises, and self-study
 
 Organized and modular structure for easy navigation and extension
-
-
-
----
 
 Repository Structure
 
@@ -68,9 +61,6 @@ math-with-python/
 └── docs/
     └── explanations_and_theory.md
 
-
----
-
 Installation and Setup
 
 Requirements
@@ -106,9 +96,6 @@ If optional dependencies are included:
 
 pip install -r requirements.txt
 
-
----
-
 How to Run Any Program
 
 Execute a script directly:
@@ -129,9 +116,6 @@ if _name_ == "_main_":
 
 
 This allows the code to be imported without auto-executing.
-
-
----
 
 Program Index and Technical Details
 
@@ -255,11 +239,6 @@ Cryptography and Encoding
 
 33. Caesar Cipher – shift-based encoding and decoding
 
-
-
-
----
-
 Example Usage
 
 Fibonacci
@@ -279,10 +258,6 @@ $ python programs/16_tower_of_hanoi.py
 Enter number of disks: 3
 Move disk 1: A -> C
 Move disk 2: A -> B
-...
-
-
----
 
 Code Style Guidelines
 
@@ -296,9 +271,6 @@ No unnecessary external libraries to maintain beginner accessibility
 
 Scripts are self-contained and runnable individually
 
-
-
----
 
 Contributing
 
